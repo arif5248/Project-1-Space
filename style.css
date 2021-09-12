@@ -34,7 +34,7 @@ body{
     padding: 10px 20px;
     border-radius: 15px;
 }
-.section{
+section{
     height: 800px;
 }
 .section-1-of-2{
@@ -224,3 +224,34 @@ h1{
 }
 
 /* =================Solutions Section================= */
+
+/* =================Why Us Section================= */
+.why-us-section{
+    height: 400px;
+}
+.why-us-text{
+    text-align: center;
+}
+.why-us-heading{
+    padding: 10px 370px 50px 370px;
+}
+.why-us-box-area{
+    width: 100%;
+    display: flex;
+    gap: 25px;
+}
+.why-us-box{
+    text-align: center;
+}
+.box-icon{
+    padding-bottom: 30px;
+}
+.box-title{
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+.box-para{
+    padding-bottom: 10px;
+    font-size: 13px;
+    line-height: 20px;
+}
